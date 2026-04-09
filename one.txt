@@ -1,6 +1,8 @@
- v1:
-This o to one a line down to cursor.
+v1:
 
+This o to one a line down to cursor.
+o - will open a new line after cursor
+O- will open a new line before cursor
 this is  my file I created to be added in the git repository.
 
 V2
