@@ -21,3 +21,8 @@ this is version 4, to check dir node_modules which is added inside .gitignore
 
 
 this is vim in action.
+
+This is updated after we created branch, we will see if it is updated.
+
+this line is added after we created a second branch & will merge two branches soon.
+
