@@ -1,4 +1,6 @@
 v1:
+Hello branch name is bugfix/header-styling
+
 
 This o to one a line down to cursor.
 o - will open a new line after cursor
@@ -24,5 +26,8 @@ this is vim in action.
 
 This is updated after we created branch, we will see if it is updated.
 
-this line is added after we created a second branch & will merge two branches soon.
+April 17, 2026
+v1
+This line is added into the branch named bugfix/header-styling, will be merged in main branch
+
 
