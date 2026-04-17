@@ -33,6 +33,7 @@ This line is added into the branch named bugfix/header-styling, will be merged i
 v2
 this line is added by branch testing
 
+<<<<<<< HEAD
 this is updated once we merger both branches.
 
 
@@ -54,4 +55,7 @@ V1
 This line is added to commit the changes to main branch.
 
 == This is added by branch name waterman ==
+=======
+== added inside branch testing ==
+>>>>>>> origin/testing
 
