@@ -55,7 +55,12 @@ This line is added to commit the changes to main branch.
 == added inside branch testing ==
 >>>>>>> origin/testing
 
+<<<<<<< HEAD
 v7
 this line is added on April 23, 2026
+=======
+v7, April 23, 2026
+this line is added in the branch waterman.
+>>>>>>> origin/waterman
 
 
